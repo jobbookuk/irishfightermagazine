@@ -1,0 +1,218 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc11               { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc12               { /* Common */
+	border          :   3.00pt solid #000000;
+	}
+.cc13               { /* Common */
+	font            : 12pt 'Calibri';
+	color           : #ffffff;
+	}
+.cc14               { /* Common */
+	font            : 14pt 'Forte';
+	color           : #b4e41c;
+	}
+.cc15               { /* Common */
+	font            : 11pt 'Calibri';
+	color           : #b5e51d;
+	}
+.cc16               { /* Common */
+	font            : bold 12pt 'Arial', Helvetica, sans-serif;
+	color           : #ffffff;
+	}
+.cc17               { /* Common */
+	font            : 12pt 'Forte';
+	color           : #000000;
+	}
+.cc18               { /* Common */
+	border          :   1.50pt solid #000000;
+	}
+span#e23            { /* irishfighter002004.gif */
+	background      : transparent url(irishfighter002004.gif) no-repeat top left;
+	position        : absolute;
+	left            : 180.00pt;
+	top             :  40.50pt;
+	width           : 702.75pt;
+	height          :1353.00pt;
+	}
+span#e22            { /* irishfighter001020.jpg */
+	background      : transparent url(irishfighter001020.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 180.00pt;
+	top             :   0.75pt;
+	width           : 697.50pt;
+	height          : 149.25pt;
+	}
+span#e21            { /* irishfighter002003.gif */
+	background      : transparent url(irishfighter002003.gif) no-repeat top left;
+	position        : absolute;
+	left            : 663.00pt;
+	top             :  15.00pt;
+	width           : 217.50pt;
+	height          : 113.25pt;
+	}
+span#e20            { /* irishfighter002002.gif */
+	background      : transparent url(irishfighter002002.gif) no-repeat top left;
+	position        : absolute;
+	left            : 180.00pt;
+	top             : 176.25pt;
+	width           : 702.75pt;
+	height          : 228.00pt;
+	}
+div#e19             { /* Irish Fighter Is a Free ... */
+	position        : absolute;
+	left            : 416.25pt;
+	top             : 290.25pt;
+	width           : 447.00pt;
+	height          :  81.75pt;
+	}
+div#e18             { /* Welcome to Irishfighter.... */
+	position        : absolute;
+	left            : 411.75pt;
+	top             : 258.75pt;
+	width           : 259.50pt;
+	height          :  21.75pt;
+	}
+span#e17            { /* irishfighter001011.jpg */
+	background      : transparent url(irishfighter001011.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 185.25pt;
+	top             : 177.75pt;
+	width           : 222.00pt;
+	height          : 216.75pt;
+	}
+span#e16            { /* irishfighter001010.jpg */
+	background      : transparent url(irishfighter001010.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 409.50pt;
+	top             : 180.00pt;
+	width           : 468.75pt;
+	height          :  72.00pt;
+	}
+span#e15            { /* irishfighter001009.jpg */
+	background      : transparent url(irishfighter001009.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 183.00pt;
+	top             : 156.00pt;
+	width           : 696.75pt;
+	height          :  21.00pt;
+	}
+div#e14             { /* We are currently looking... */
+	position        : absolute;
+	left            : 667.50pt;
+	top             :  37.50pt;
+	width           : 208.50pt;
+	height          : 106.50pt;
+	}
+div#e13             { /* Next Issue Jan'2017  */
+	position        : absolute;
+	left            : 667.50pt;
+	top             :  19.50pt;
+	width           : 117.75pt;
+	height          :  45.75pt;
+	}
+div#e12             {
+	position        : absolute;
+	left            : 183.75pt;
+	top             : 408.00pt;
+	width           : 480.00pt;
+	height          : 949.50pt;
+	}
+div#e11             { /* home */
+	position        : absolute;
+	left            : 413.25pt;
+	top             : 158.25pt;
+	width           :  54.00pt;
+	height          :  17.25pt;
+	}
+div#e10             { /* contact  */
+	position        : absolute;
+	left            : 480.75pt;
+	top             : 158.25pt;
+	width           :  54.75pt;
+	height          :  17.25pt;
+	}
+div#e9              { /* downloads */
+	position        : absolute;
+	left            : 555.75pt;
+	top             : 158.25pt;
+	width           :  75.75pt;
+	height          :  15.75pt;
+	}
+img#e8              { /* irishfighter001006.jpg */
+	position        : absolute;
+	left            : 744.75pt;
+	top             : 408.75pt;
+	width           : 127.50pt;
+	height          : 155.25pt;
+	}
+img#e7              { /* irishfighter001005.jpg */
+	position        : absolute;
+	left            : 744.75pt;
+	top             : 577.50pt;
+	width           : 128.25pt;
+	height          : 182.25pt;
+	}
+img#e6              { /* irishfighter001004.jpg */
+	position        : absolute;
+	left            : 744.75pt;
+	top             : 772.50pt;
+	width           : 128.25pt;
+	height          : 109.50pt;
+	}
+img#e5              { /* irishfighter001002.jpg */
+	position        : absolute;
+	left            : 744.75pt;
+	top             : 897.00pt;
+	width           : 127.50pt;
+	height          : 110.25pt;
+	}
+img#e4              { /* irishfighter001006.jpg */
+	position        : absolute;
+	left            :  41.25pt;
+	top             :   9.75pt;
+	width           : 127.50pt;
+	height          : 155.25pt;
+	}
+img#e3              { /* irishfighter001005.jpg */
+	position        : absolute;
+	left            :  41.25pt;
+	top             : 192.75pt;
+	width           : 128.25pt;
+	height          : 182.25pt;
+	}
+img#e2              { /* irishfighter001004.jpg */
+	position        : absolute;
+	left            :  42.75pt;
+	top             : 392.25pt;
+	width           : 128.25pt;
+	height          : 109.50pt;
+	}
+img#e1              { /* irishfighter001002.jpg */
+	position        : absolute;
+	left            :  43.50pt;
+	top             : 525.75pt;
+	width           : 127.50pt;
+	height          : 110.25pt;
+	}
+div#page            { /* Page Holder */
+	background-color: transparent;
+	position        : relative;
+	width           :1072.50pt;
+	height          :1500.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	background-image: url(6909249-black-hd-background.jpg);
+	text-align      : center;
+	}
+
+
+
+/*--- EndOfFile ---*/
