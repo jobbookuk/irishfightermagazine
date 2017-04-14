@@ -1,0 +1,406 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc24               { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc25               { /* Common */
+	font            : 20pt 'ALL AGES';
+	color           : #ffffff;
+	}
+.cc26               { /* Common */
+	font            : 20pt 'Haettenschweiler';
+	color           : #000000;
+	}
+.cc27               { /* Common */
+	font            : 20pt 'Haettenschweiler';
+	color           : #ffffff;
+	}
+.cc28               { /* Common */
+	font            : 25pt 'Social Icon by BRIANQC';
+	color           : #c0c0c0;
+	}
+.cc29               { /* Common */
+	font            : 10pt 'Market Deco';
+	color           : #000000;
+	}
+.cc30               { /* Common */
+	border          :   0.00pt none #a0a0a0;
+	clip            : rect(0.00pt,196.50pt,1.50pt,0.00pt);
+	}
+.cc31               { /* Common */
+	border          :   0.00pt none #ffffff;
+	}
+.cc32               { /* Common */
+	font            : bold 10pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc33               { /* Common */
+	font            : 8pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc34               { /* Common */
+	font            : bold 8pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc35               { /* Common */
+	border          :   0.00pt none #a0a0a0;
+	clip            : rect(0.00pt,405.75pt,1.50pt,0.00pt);
+	}
+span#e46            { /* 01_-_fight_lander_actual... */
+	background      : transparent url(01_-_fight_lander_actual003019.gif) no-repeat top left;
+	position        : absolute;
+	left            : 391.50pt;
+	top             :  51.00pt;
+	width           :  60.75pt;
+	height          :  24.00pt;
+	}
+div#e45             { /* fighTlander */
+	position        : absolute;
+	left            :  51.75pt;
+	top             :   3.00pt;
+	width           : 210.00pt;
+	height          :  27.75pt;
+	}
+div#e44             { /* ISSUES */
+	position        : absolute;
+	left            : 310.50pt;
+	top             :  51.75pt;
+	width           :  66.00pt;
+	height          :  27.75pt;
+	}
+div#e43             { /* VIDEOS */
+	position        : absolute;
+	left            : 399.75pt;
+	top             :  51.75pt;
+	width           :  73.50pt;
+	height          :  27.75pt;
+	}
+div#e42             { /* CONTACT  US */
+	position        : absolute;
+	left            : 498.00pt;
+	top             :  51.75pt;
+	width           : 102.00pt;
+	height          :  27.75pt;
+	}
+div#e41             { /* ABOUT US */
+	position        : absolute;
+	left            : 624.75pt;
+	top             :  51.00pt;
+	width           :  81.75pt;
+	height          :  27.75pt;
+	}
+img#e40             { /* 01_-_fight_lander_actual... */
+	position        : absolute;
+	left            :  52.50pt;
+	top             :  45.00pt;
+	width           : 236.25pt;
+	height          :  39.00pt;
+	}
+div#e39             { /* q w  T  G */
+	position        : absolute;
+	left            : 507.00pt;
+	top             :   3.00pt;
+	width           : 129.75pt;
+	height          :  30.75pt;
+	}
+img#e38             { /* 01_-_fight_lander_actual... */
+	position        : absolute;
+	left            : 305.25pt;
+	top             :  54.00pt;
+	width           :  55.50pt;
+	height          :  18.00pt;
+	}
+img#e37             { /* 01_-_fight_lander_actual... */
+	position        : absolute;
+	left            : 395.25pt;
+	top             :  54.00pt;
+	width           :  60.00pt;
+	height          :  18.00pt;
+	}
+img#e36             { /* 01_-_fight_lander_actual... */
+	position        : absolute;
+	left            : 493.50pt;
+	top             :  54.00pt;
+	width           :  87.75pt;
+	height          :  18.00pt;
+	}
+img#e35             { /* 01_-_fight_lander_actual... */
+	position        : absolute;
+	left            : 615.75pt;
+	top             :  54.00pt;
+	width           :  70.50pt;
+	height          :  18.00pt;
+	}
+span#e34            { /* 01_-_fight_lander_actual... */
+	background      : transparent url(01_-_fight_lander_actual003014.gif) no-repeat top left;
+	position        : absolute;
+	left            :  54.00pt;
+	top             : 978.00pt;
+	width           : 669.00pt;
+	height          :  33.75pt;
+	}
+span#e33            { /* 01_-_fight_lander_actual... */
+	background      : transparent url(01_-_fight_lander_actual002008.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  41.25pt;
+	top             :  88.50pt;
+	width           : 697.50pt;
+	height          : 140.25pt;
+	}
+div#e32             { /* social media */
+	position        : absolute;
+	left            : 499.50pt;
+	top             : 243.00pt;
+	width           : 212.25pt;
+	height          :  13.50pt;
+	}
+span#e31            { /* 01_-_fight_lander_actual... */
+	background      : transparent url(01_-_fight_lander_actual003013.gif) no-repeat top left;
+	position        : absolute;
+	left            : 498.75pt;
+	top             : 308.25pt;
+	width           : 196.50pt;
+	height          :   1.50pt;
+	}
+span#e30            { /* test_sm_images.jpg */
+	background      : transparent url(test_sm_images.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 496.50pt;
+	top             : 258.75pt;
+	width           : 219.75pt;
+	height          :  48.75pt;
+	}
+div#e29             {
+	position        : absolute;
+	left            : 499.50pt;
+	top             : 316.50pt;
+	width           : 192.75pt;
+	height          : 588.75pt;
+	}
+span#e28            { /* 01_-_fight_lander_actual... */
+	background      : transparent url(01_-_fight_lander_actual003012.gif) no-repeat top left;
+	position        : absolute;
+	left            : 497.25pt;
+	top             : 882.00pt;
+	width           : 205.50pt;
+	height          :  26.25pt;
+	}
+span#e27            { /* 01_-_fight_lander_actual... */
+	background      : transparent url(01_-_fight_lander_actual003011.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  45.75pt;
+	top             : 265.50pt;
+	width           : 439.50pt;
+	height          :  83.25pt;
+	}
+div#e26             { /* NEWS UPDATES | Coming In... */
+	position        : absolute;
+	left            :  54.75pt;
+	top             : 375.75pt;
+	width           : 212.25pt;
+	height          :  13.50pt;
+	}
+div#e25             { /* WALESTKD Grading Success... */
+	position        : absolute;
+	left            : 210.75pt;
+	top             : 393.75pt;
+	width           : 243.00pt;
+	height          :  26.25pt;
+	}
+div#e24             { /* Another Amazing Years to... */
+	position        : absolute;
+	left            : 210.75pt;
+	top             : 423.00pt;
+	width           : 252.75pt;
+	height          :  36.00pt;
+	}
+div#e23             { /* April 2017 | Administrat... */
+	position        : absolute;
+	left            : 210.75pt;
+	top             : 461.25pt;
+	width           : 242.25pt;
+	height          :  12.75pt;
+	}
+span#e22            { /* 01_-_fight_lander_actual... */
+	background      : transparent url(01_-_fight_lander_actual003010.gif) no-repeat top left;
+	position        : absolute;
+	left            :  54.75pt;
+	top             : 490.50pt;
+	width           : 405.75pt;
+	height          :   1.50pt;
+	}
+div#e21             { /* EITF European Championsh... */
+	position        : absolute;
+	left            : 210.75pt;
+	top             : 504.75pt;
+	width           : 243.00pt;
+	height          :  26.25pt;
+	}
+div#e20             { /* April 2017 the UKTA will... */
+	position        : absolute;
+	left            : 210.75pt;
+	top             : 534.00pt;
+	width           : 252.75pt;
+	height          :  23.25pt;
+	}
+div#e19             { /* April 2017 | Administrat... */
+	position        : absolute;
+	left            : 210.75pt;
+	top             : 572.25pt;
+	width           : 243.00pt;
+	height          :  12.75pt;
+	}
+span#e18            { /* 01_-_fight_lander_actual... */
+	background      : transparent url(01_-_fight_lander_actual003009.gif) no-repeat top left;
+	position        : absolute;
+	left            :  54.75pt;
+	top             : 601.50pt;
+	width           : 405.75pt;
+	height          :   1.50pt;
+	}
+div#e17             { /* SILVERDRAGON TAEKWONDO S... */
+	position        : absolute;
+	left            : 210.75pt;
+	top             : 617.25pt;
+	width           : 243.00pt;
+	height          :  26.25pt;
+	}
+div#e16             { /* Silver Dragon Taekwondo ... */
+	position        : absolute;
+	left            : 210.75pt;
+	top             : 646.50pt;
+	width           : 252.75pt;
+	height          :  23.25pt;
+	}
+div#e15             { /* April 2017 | Administrat... */
+	position        : absolute;
+	left            : 210.75pt;
+	top             : 684.75pt;
+	width           : 243.00pt;
+	height          :  12.75pt;
+	}
+span#e14            { /* 01_-_fight_lander_actual... */
+	background      : transparent url(01_-_fight_lander_actual003008.gif) no-repeat top left;
+	position        : absolute;
+	left            :  54.75pt;
+	top             : 714.00pt;
+	width           : 405.75pt;
+	height          :   1.50pt;
+	}
+div#e13             { /* BTF National Championshi... */
+	position        : absolute;
+	left            : 210.75pt;
+	top             : 728.25pt;
+	width           : 243.00pt;
+	height          :  14.25pt;
+	}
+div#e12             { /* The British Taekwondo Fe... */
+	position        : absolute;
+	left            : 210.75pt;
+	top             : 753.75pt;
+	width           : 252.75pt;
+	height          :  23.25pt;
+	}
+div#e11             { /* April 2017 | Administrat... */
+	position        : absolute;
+	left            : 210.75pt;
+	top             : 795.75pt;
+	width           : 243.00pt;
+	height          :  12.75pt;
+	}
+span#e10            { /* 01_-_fight_lander_actual... */
+	background      : transparent url(01_-_fight_lander_actual003007.gif) no-repeat top left;
+	position        : absolute;
+	left            :  54.75pt;
+	top             : 825.00pt;
+	width           : 405.75pt;
+	height          :   1.50pt;
+	}
+span#e9             { /* 01_-_fight_lander_actual... */
+	background      : transparent url(01_-_fight_lander_actual001014.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  54.75pt;
+	top             : 504.75pt;
+	width           : 144.75pt;
+	height          :  82.50pt;
+	}
+span#e8             { /* 01_-_fight_lander_actual... */
+	background      : transparent url(01_-_fight_lander_actual001013.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  54.75pt;
+	top             : 729.75pt;
+	width           : 145.50pt;
+	height          :  80.25pt;
+	}
+span#e7             { /* 01_-_fight_lander_actual... */
+	background      : transparent url(01_-_fight_lander_actual001005.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  54.75pt;
+	top             : 395.25pt;
+	width           : 145.50pt;
+	height          :  85.50pt;
+	}
+span#e6             { /* 01_-_fight_lander_actual... */
+	background      : transparent url(01_-_fight_lander_actual001004.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  54.75pt;
+	top             : 618.00pt;
+	width           : 144.75pt;
+	height          :  87.00pt;
+	}
+div#e5              { /* WALESTKD COLOUR BELT GRA... */
+	position        : absolute;
+	left            : 211.50pt;
+	top             : 840.00pt;
+	width           : 242.25pt;
+	height          :  16.50pt;
+	}
+div#e4              { /* Congratulations to all t... */
+	position        : absolute;
+	left            : 211.50pt;
+	top             : 865.50pt;
+	width           : 252.75pt;
+	height          :  23.25pt;
+	}
+div#e3              { /* April 2017 | James Manni... */
+	position        : absolute;
+	left            : 211.50pt;
+	top             : 907.50pt;
+	width           : 243.00pt;
+	height          :  12.75pt;
+	}
+span#e2             { /* 01_-_fight_lander_actual... */
+	background      : transparent url(01_-_fight_lander_actual003002.gif) no-repeat top left;
+	position        : absolute;
+	left            :  55.50pt;
+	top             : 936.75pt;
+	width           : 405.75pt;
+	height          :   1.50pt;
+	}
+span#e1             { /* 01_-_fight_lander_actual... */
+	background      : transparent url(01_-_fight_lander_actual001002.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  55.50pt;
+	top             : 839.25pt;
+	width           : 145.50pt;
+	height          :  85.50pt;
+	}
+div#page            { /* Page Holder */
+	background-color: transparent;
+	position        : relative;
+	width           : 750.00pt;
+	height          :1012.50pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	background-image: url(fightlander_-_01.jpg);
+	text-align      : center;
+	}
+
+
+
+/*--- EndOfFile ---*/
